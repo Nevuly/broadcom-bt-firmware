@@ -1,0 +1,4 @@
+#!/bin/sh
+
+chown -R 0:0 /lib/firmware/brcm/*
+chown -R 0:0 /usr/share/doc/broadcom-bt-firmware/*
