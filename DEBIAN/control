@@ -1,0 +1,9 @@
+Package: broadcom-bt-firmware
+Version: 12.0.1.1010
+Architecture: all
+Maintainer: Yang Jeong Hun (Nevuly) <onyxclover9931@gmail.com>
+Section: non-free/bluetooth
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://github.com/Nevuly/broadcom-bt-firmware
+Description: Broadcom Bluetooth firmware for Linux.
